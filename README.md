@@ -1,1 +1,1 @@
-# github-vsts-sync-test-sync
+# github-vsts-test-sync
